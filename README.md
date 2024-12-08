@@ -3,7 +3,11 @@ This repository presents a collection of projects and scripts focused on quantit
 
 ## Projects Overview
 1.Portfolio Risk Analysis
+
 2.Time Series Analysis
+
 3.Monte Carlo Simulations
+
 4.Options Pricing
+
 5.Factor Models and Regression
